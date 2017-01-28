@@ -1,0 +1,125 @@
+.spaced {
+    padding: 40px 80px;
+}
+
+.sparse {
+      padding-bottom: 20px;
+}
+
+.wrapper-center {
+    text-align: center !important;
+}
+
+.bio-segment {
+    background-color: #DDD;
+    border-radius: 10px !important;
+    padding: 10px 75px;
+    p {
+        font-size: 17px;
+        font-style: lighter;
+        line-height: 1.6;
+        text-align: justify;
+    }
+    a {
+        color: #119;
+    }
+}
+
+.blue-links a {
+    color: #119;
+}
+
+.expanded-segment {
+    background-color: #DDD;
+    border-radius: 0px 0px 8px 8px !important;
+}
+
+.expanded-segment-square {
+    background-color: #DDD;
+    border-color: #000;
+    border-top-style: dashed;
+    border-bottom-style: solid;
+    border-bottom-color: #7B7B7B !important;
+    border-width: 1px;
+}
+
+.image-subtitle {
+    font-size: 14px;
+    color: #888;
+}
+
+.subtitle {
+    font-size: 70%;
+    color: #FFF;
+}
+
+.project-description a {
+    color: #129;
+}
+
+.monospace {
+    font-family: 'Courier New', monospace !important;
+    text-align: left !important;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#Title {
+    font-family: 'Verdana', sans-serif;
+    img {
+        width: 35%;
+        height: 35%;
+        margin-top: -140px;
+        margin-bottom: -100px;
+    }
+}
+
+#Start div.spacing {
+    margin: 25px 20px;
+}
+
+
+#header {
+    background-image: url(image_path('polytri.png'));
+    background-repeat: repeat;
+}
+
+#latestProjTitle {
+    padding: 2px 0;
+}
+
+#latestProj {
+    margin: 20px 0;
+    button {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+}
+
+#latestProj h2:hover {
+    color: #f22;
+}
+
+#latest-news {
+    background-color: #EEE;
+    border-radius: 0 0 8px 8px !important;
+    li {
+        font-size: 16px;
+    }
+}
+
+#me {
+    width: 80%;
+    opacity: 1;
+    :hover {
+        opacity: 0.88;
+    }
+}
+
+/*
+@font-face {
+    font-family: ;
+}
+*/
